@@ -56,21 +56,21 @@ Passionate about building scalable web applications, solving real-world problems
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/kumarayush05" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" />
-</a>
+  <a href="https://linkedin.com/in/kumarayush05" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45" hspace="25" />
+  </a>
 
-<a href="https://twitter.com/kumarayush0512" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="35" width="45" />
-</a>
+  <a href="https://twitter.com/kumarayush0512" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="35" width="45" hspace="25" />
+  </a>
 
-<a href="https://instagram.com/kumarayush05" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="45" />
-</a>
+  <a href="https://instagram.com/kumarayush05" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="45" hspace="25" />
+  </a>
 
-<a href="https://www.leetcode.com/kumarayush05" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="35" width="45" />
-</a>
+  <a href="https://www.leetcode.com/kumarayush05" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="35" width="45" hspace="25" />
+  </a>
 </p>
 
 ---

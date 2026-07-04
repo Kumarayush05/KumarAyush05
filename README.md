@@ -17,7 +17,7 @@ Passionate about building scalable web applications, solving real-world problems
   <a href="https://github.com/Kumarayush05?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge" />
   </a>
-  <a href="https://kumarayush05.github.io/personal-portfolio-website/">
+  <a href="https://kumarayush-portfolio-website.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
   </a>
   <a href="mailto:kr.ayush0512@gmail.com">
@@ -94,7 +94,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 ### 🌐 Personal Portfolio Website
 
-🔗 https://kumarayush05.github.io/personal-portfolio-website/
+🔗 https://kumarayush-portfolio-website.vercel.app/
 
 ### 💻 Frontend Projects Collection
 
